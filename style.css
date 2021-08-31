@@ -1,0 +1,66 @@
+body{
+    font-family: 'Rampart One', cursive;
+    background-color:white;
+}
+
+.hk{
+    width: 90px;
+}
+.hh{
+    color: black;
+    font-size: 50px;
+    margin-bottom: -40px;
+}
+.footer{
+    position: fixed;
+    background-color: black;
+    font-size: 15px;
+    font-family: monospace;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.img1{
+    padding-top: 50px;
+    width: 150px;
+}
+.p_modal{
+    margin-top: 15px;
+}
+.img_modal{
+    display: inline-block;
+
+}
+.modal-content{
+    margin-top: 100px;
+    
+}
+.book{cursor:pointer;
+margin-top: 50px;
+margin-left: 30px;
+height: 200px;
+width: 100px;
+}
+.kook{cursor:pointer;
+    margin-top: 50px;
+    margin-left: 30px;
+    height: 200px;
+    width: 100px;
+}
+#jj{
+    font-family:serif;
+    font-size: 30;
+ height: 300px;
+ width: 600px;
+ padding-left: -60px;
+ box-shadow: 5px 10px 15px black;
+}
+.img2{
+    font-size: 50;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 300px;
+ width: 600px;
+ box-shadow: 5px 10px 15px black;
+}
